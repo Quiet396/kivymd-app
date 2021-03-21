@@ -20,3 +20,8 @@ https://qiita.com/virty/items/ff08a262053a504222e5
 見分けがつきやすいようにと管理がしやすいということでファイル名をmain.pyから変更しています。
 公式の案内ではファイル名が指定されているかもなのでご注意のほどを。
 
+## 参照
+
+https://kivymd.readthedocs.io/en/latest/
+
+thank you for developing!
