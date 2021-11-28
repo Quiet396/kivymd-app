@@ -19,7 +19,6 @@ Builder.load_string(
         pos_hint: {"center_x": .5}
         md_bg_color: 0, 0.3828215, 0.625, 1 # Cobalt Blue
         #md_bg_color: 0, 0.3828215, 0.625, 0 # Cobalt Blue alpha 0.5
-        # https://www.color-sample.com/colors/343/
         #md_bg_color: 0.16796875, 0.29296875, 0.39453125, 1 # Indigo
         #md_bg_color: 0.16796875, 0.29296875, 0.39453125, 0.5 # Indigo alpha 0.5
         line_color: 1, 0, 0, 1
